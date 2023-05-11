@@ -1,0 +1,12 @@
+
+# A elemetns are constant and equal to AVAL
+AVAL = 3.257
+
+# B elemetns are constant and equal to BVAL
+BVAL = 5.723
+
+# Max dim for NDRange
+DIM = 2
+
+# number of times to do each multiplication
+COUNT = 1
